@@ -1,15 +1,18 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Blog Website'
+cover: './blog.png'
+github: 'https://github.com/md-nobin/Personal_Blog_Website'
+external: 'https://nobin-wave.onrender.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Flask
+  - SQL-lite
+  - Bootstrap
+  - Heroku
+
+  # - iTerm2
+  # - Hyper
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Minimal and clean Blog website. A feature-rich and secure blog website using the Flask framework.. Live on [Internet](https://nobin-wave.onrender.com/)
