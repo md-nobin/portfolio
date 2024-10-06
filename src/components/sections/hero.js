@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m doing my internship at{' '}
-        <a href="https://skill.jobs/" target="_blank" rel="noreferrer">
-          skill jobs
+        <a href="https://www.goinnovior.com/" target="_blank" rel="noreferrer">
+          Goinnovior Limited
         </a>
         .
       </p>
